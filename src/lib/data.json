@@ -5,14 +5,14 @@
       "institution": "JNTU-Gurajada Vizianagaram",
       "duration": "2021 – 2025",
       "location": "Vizianagaram, India",
-      "cgpa": "7.3"
+      "cgpa": "7.49"
     },
     {
       "degree": "Intermediate (MPC)",
       "institution": "Prathibha Junior College",
       "duration": "2019 – 2021",
       "location": "Rajahmundry, India",
-      "score": "745/1000 (95%)"
+      "score": "74.5 %"
     },
     {
       "degree": "High School",
@@ -44,19 +44,28 @@
   "projects": [
     {
       "title": "Business Insights 360 Dashboard – Power BI",
-      "description": "Designed and implemented a comprehensive Power BI solution with dashboards for six core business functions."
+      "description": "Designed and implemented a comprehensive Power BI solution with dashboards for six core business functions.",
+      "githubLink": ""
     },
     {
       "title": "Hospitality Management Dashboard – Power BI",
-      "description": "Developed an interactive Power BI dashboard to analyze key metrics in the hospitality sector."
+      "description": "Developed an interactive Power BI dashboard to analyze key metrics in the hospitality sector.",
+      "githubLink": ""
     },
     {
       "title": "Drug Classification using ML",
-      "description": "Analyzed medical data to identify patterns in drug prescriptions based on patient attributes."
+      "description": "Analyzed medical data to identify patterns in drug prescriptions based on patient attributes.",
+      "githubLink": ""
     },
     {
       "title": "Securing Resource-Constrained Healthcare (H-IoT) Devices with Blockchain and ASCON",
-      "description": "Built a secure framework integrating lightweight ASCON encryption with Hyperledger blockchain for IoT devices."
+      "description": "Built a secure framework integrating lightweight ASCON encryption with Hyperledger blockchain for IoT devices.",
+      "'githubLink":""
+    },
+    {
+        "title": "DetCov19",
+        "description" : "Developed and Enhanced the DensNet 121 Model to achieve the accuracy of 92% in classifying the diseases like Covid 19, Tuberculosis and Pneumonia using Chest X rays ",
+        "'githubLink":""
     }
   ],
   "certifications": [

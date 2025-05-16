@@ -368,6 +368,7 @@ export default function PortfolioPage() {
           className="relative text-center mb-20 py-16 px-4 rounded-2xl bg-gradient-to-br from-slate-800/50 to-indigo-900/50 backdrop-blur-sm border border-white/10"
           initial="hidden"
           whileInView="visible"
+          id = "contact"
           viewport={{ once: true }}
         >
           <motion.div
